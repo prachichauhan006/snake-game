@@ -1,13 +1,9 @@
 # 🐍 Snake Game
 
 A classic Snake Game built with vanilla HTML, CSS, and JavaScript.
-
-## 🎮 Live Demo
-[Play Now](https://prachichauhan006.github.io/snake-game/Snake_game/index.html)
-
 ---
 
-## 📸 Preview
+## Preview
 
 > A dark-themed snake game where you control the snake using arrow keys, eat food to grow longer and increase your score.
 
