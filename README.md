@@ -5,7 +5,7 @@ A classic Snake Game built with vanilla HTML, CSS, and JavaScript.
 ---
 > A dark-themed snake game where you control the snake using arrow keys, eat food to grow longer and increase your score.
 >---
-  
+    
 ## 🚀 Features
 
 - ✅ Classic snake movement with arrow key controls
